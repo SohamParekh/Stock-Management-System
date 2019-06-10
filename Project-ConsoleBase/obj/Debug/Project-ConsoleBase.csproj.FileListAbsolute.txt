@@ -1,0 +1,9 @@
+E:\Visual Studio\Project-ConsoleBase\Project-ConsoleBase\bin\Debug\Project-ConsoleBase.exe.config
+E:\Visual Studio\Project-ConsoleBase\Project-ConsoleBase\obj\Debug\Project-ConsoleBase.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Project-ConsoleBase\Project-ConsoleBase\bin\Debug\Project-ConsoleBase.exe
+E:\Visual Studio\Project-ConsoleBase\Project-ConsoleBase\bin\Debug\Project-ConsoleBase.pdb
+E:\Visual Studio\Project-ConsoleBase\Project-ConsoleBase\obj\Debug\Project-ConsoleBase.exe
+E:\Visual Studio\Project-ConsoleBase\Project-ConsoleBase\obj\Debug\Project-ConsoleBase.pdb
+E:\Visual Studio\Project-ConsoleBase\Project-ConsoleBase\bin\Debug\MySql.Data.dll
+E:\Visual Studio\Project-ConsoleBase\Project-ConsoleBase\bin\Debug\Google.Protobuf.dll
+E:\Visual Studio\Project-ConsoleBase\Project-ConsoleBase\bin\Debug\MySql.Data.xml
